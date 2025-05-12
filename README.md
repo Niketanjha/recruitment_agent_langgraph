@@ -18,7 +18,7 @@ Make sure you have Python 3.13 or later installed.
 
 ### 1. Clone the repository
 
-git clone https://github.com/iamtalibaziz/python-fastapi-langgraph-recruiting-assistant.git
+git clone https://github.com/Niketanjha/recruitment_agent_langgraph
 <br>
 cd python-fastapi-langgraph-recruiting-assistant
 
